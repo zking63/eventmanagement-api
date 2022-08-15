@@ -12,5 +12,5 @@ This is an end-to-end RestFul API application designed to help organizers create
 * Customized JSON Responses 
 
 ## Technologies
-**BACK END:** Java | MySQL | JPA 
+**BACK END:** Java | MySQL | JPA  
 **TOOLS:** Spring Tool Suite | MySQL Workbench | Postman | Hal Browser Supporter
